@@ -35,5 +35,5 @@ chmod +x install-chr.sh
 ./install-chr.sh
 ```
 🤝 Credits
-Created and maintained by : Alxtexh
-MikroTik CHR © mikrotik.com
+-Created and maintained by : Alxtexh
+-MikroTik CHR © mikrotik.com
