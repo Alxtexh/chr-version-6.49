@@ -37,3 +37,11 @@ chmod +x install-chr.sh
 🤝 Credits
 -Created and maintained by : Alxtexh
 -MikroTik CHR © mikrotik.com
+
+ON VPS DIRECT
+Do this
+```bash
+curl -O https://raw.githubusercontent.com/AlxTexh/chr-version-6.49/main/lamp.sh
+chmod +x lamp.sh
+./lamp.sh
+```
